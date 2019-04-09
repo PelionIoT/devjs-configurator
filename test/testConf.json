@@ -1,0 +1,5 @@
+{
+    // hi
+    "hi": "hello",
+    "mydir": "${thisdir}"  // test subst var
+}
