@@ -19,6 +19,6 @@
     "expect.js": "0.3.1",
     "should": "7.1.0",
     "should-promised": "0.3.1",
-    "devjs-configurator-server": "https://github.com/WigWagCo/devjs-configurator-server"
+    "devjs-configurator-server": "https://github.com/armPelionEdge/devjs-configurator-server"
   }
 }

@@ -222,7 +222,7 @@ var configurator = function(port) {
             })
         }
 
-        // Server component in [github]/WigWagCo/devjs-configurator-server
+        // Server component in [github]/armPelionEdge/devjs-configurator-server
     }
 };
 
